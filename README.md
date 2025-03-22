@@ -1,1 +1,3 @@
-# Labmentix-Internship-Projects
+# Labmentix Internship Projects
+
+- [MediBuddy Insurance Project]()
