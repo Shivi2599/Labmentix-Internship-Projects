@@ -14,7 +14,7 @@
 
 ## Summary 
 
-- - **Entire home/apartment** dominates the market, making up the majority of listings.
+- **Entire home/apartment** dominates the market, making up the majority of listings.
 - **Hotel Rooms** stand out as the **priciest accommodation** option in Chicago. Despite being **fewer in number**, they command a significantly higher average price.
 - **Private rooms** are the second most common, catering to budget-conscious travelers or solo guests.
 - **Short-Term Rentals** have majority listings than Long-Term Rentals. Short-Term Rentals are **priciest accommodation** in Chicago.
