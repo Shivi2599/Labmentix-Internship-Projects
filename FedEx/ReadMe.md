@@ -129,12 +129,9 @@ This exploratory data analysis focuses on pharmaceutical shipments across multip
 - On-time delivery is consistently high across all lead time ranges, indicating process stability.
 
 # Summary
-- This analysis highlights key areas for optimization:
+This analysis highlights key areas for optimization:
 
 - Strengthen operations in high-volume countries and underperforming regions.
-
 - Diversify vendor and manufacturing reliance beyond India and RDCs.
-
 - Leverage air and truck modes for cost-effective and timely deliveries.
-
 - Re-evaluate use of ocean and air charter modes to reduce unnecessary freight costs.
