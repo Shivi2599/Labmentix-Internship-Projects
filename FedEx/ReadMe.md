@@ -34,6 +34,10 @@ To explore patterns in shipment logistics, vendor contributions, insurance costs
 
 We also explored whether the weight of shipments affected the insurance cost and if INCO terms had any significant impact on vendor delivery reliability
 
+Python Code used to clean, organise, and prepare data for EDA is [here.](https://github.com/Shivi2599/Labmentix-Internship-Projects/blob/main/FedEx/FedEx_EDA_%20(1).ipynb)
+
+Python code to visualize the dataset is [here.](https://github.com/Shivi2599/Labmentix-Internship-Projects/blob/main/FedEx/FedEx_EDA_%20(1).ipynb)
+
 # Data Structure and Initial Checks
 
 FedEx's database structure as seen below consists of 
