@@ -48,7 +48,8 @@ Ford GoBike's database Structure as seen below consists of total row count of **
 | `member_gender`           | Gender of the user (can be used to study usage trends across genders).     |
 | `bike_share_for_all_trip` | Indicates whether the user opted for bike sharing for all trips (Yes/No).  |
 
-Prior to beginning the analysis, a variety of check were conducted for quality control and familiarization with the dataset. 
+Prior to beginning the analysis, a variety of check were conducted for quality control and familiarization with the dataset. The python code utilized to inspect and perform quality checks can be found [here.](https://github.com/Shivi2599/Labmentix-Internship-Projects/blob/main/Ford%20GoBike%20Sharing%20project/Ford_goBike_Sharing_Project.ipynb)
+
 
 # Executive Summary
 
