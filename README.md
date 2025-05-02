@@ -5,5 +5,5 @@
 - [Airbnb Project](https://github.com/Shivi2599/Labmentix-Internship-Projects/blob/main/Airbnb/AIRBNB%20Project.pptx)
     - [Chicago](https://github.com/Shivi2599/Labmentix-Internship-Projects/tree/main/Airbnb/Chiacago)
     - [New Orleans](https://github.com/Shivi2599/Labmentix-Internship-Projects/tree/main/Airbnb/New%20Orleans)
-- [FedEx EDA](https://github.com/Shivi2599/Labmentix-Internship-Projects/tree/main/FedEx)
+- [FedEx Pharmaceutical Shipment – Exploratory Data Analysis (EDA)](https://github.com/Shivi2599/Labmentix-Internship-Projects/tree/main/FedEx)
 - [Ford GoBike Sharing Project](https://github.com/Shivi2599/Labmentix-Internship-Projects/tree/main/Ford%20GoBike%20Sharing%20project)
